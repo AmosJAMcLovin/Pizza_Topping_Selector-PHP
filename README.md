@@ -1,2 +1,2 @@
 # Pizza_Topping_Selector-PHP
-Building a pizza topping selector using PHP
+Assignment that required us to build a pizza topping selector using PHP
